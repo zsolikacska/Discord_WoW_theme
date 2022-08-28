@@ -1,7 +1,3 @@
-All rights reserve to ClearVision team!!
-https://github.com/ClearVision/ClearVision-v6
-
-
 [release-badge]: https://img.shields.io/github/v/release/ClearVision/ClearVision-v6?include_prereleases&style=flat-square
 [release-link]: https://github.com/ClearVision/ClearVision-v6/releases
 [license-badge]: https://img.shields.io/github/license/ClearVision/ClearVision-v6?style=flat-square
@@ -16,7 +12,9 @@ https://github.com/ClearVision/ClearVision-v6
 <div align="center">
 
 # ClearVision v6
-
+All rights reserve to ClearVision team!!
+https://github.com/ClearVision/ClearVision-v6
+  
 [![Releases][release-badge]][release-link]
 [![License][license-badge]][license-link]
 [![Discord Server][discord-badge]][discord-link]
