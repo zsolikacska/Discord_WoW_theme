@@ -22,6 +22,7 @@ https://github.com/ClearVision/ClearVision-v6
 [![Pull Requests][prs-badge]][prs-link]
 
 My Modded Screenshot:
+  (I only change the background and the home icon, the all other function is equal to original!)
 ![v6 Sapphire](https://github.com/zsolikacska/Discord_WoW_theme/blob/main/screenshots/modi.jpg)
 
   
