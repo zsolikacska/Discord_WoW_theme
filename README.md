@@ -24,7 +24,7 @@ https://github.com/ClearVision/ClearVision-v6
 [![Pull Requests][prs-badge]][prs-link]
 
 My Modded Screenshot:
-![v6 Sapphire]()
+![v6 Sapphire](https://github.com/zsolikacska/Discord_WoW_theme/blob/main/screenshots/modi.jpg)
 
 Original
 ![v6 Sapphire](https://github.com/ClearVision/ClearVision-v6/raw/master/screenshots/6-stable.4.7.9.png)
