@@ -23,6 +23,10 @@ https://github.com/ClearVision/ClearVision-v6
 [![Issues][issues-badge]][issues-link]
 [![Pull Requests][prs-badge]][prs-link]
 
+My Modded Screenshot:
+![v6 Sapphire]()
+
+Original
 ![v6 Sapphire](https://github.com/ClearVision/ClearVision-v6/raw/master/screenshots/6-stable.4.7.9.png)
 
 </div>
