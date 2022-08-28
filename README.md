@@ -1,1 +1,2 @@
-All rights reserve to https://github.com/ClearVision/ClearVision-v6
+All rights reserve to ClearVision team!!
+https://github.com/ClearVision/ClearVision-v6
