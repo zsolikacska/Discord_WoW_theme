@@ -1,14 +1,14 @@
 /**
- * @name ClearVision
- * @author ClearVision Team
- * @version 6.3.0
- * @description Highly customizable theme for BetterDiscord.
+ * @name World of Warcraft
+ * @author Drizzix Team
+ * @version 1.0.0
+ * @description Discord theme for WoW fanatics!
  * @source https://github.com/ClearVision/ClearVision-v6
  * @website https://clearvision.github.io
- * @invite dHaSxn3
  */
 
 /* Credits to Zerthox for making the original theme. */
+/* Base on ClearVision theme! | BIG THANKS TO CLEARVISION TEAM! | ALL RIGHTS RESERVE TO ClearVision!! */
 
 /* IMPORT CSS */
 @import url(https://clearvision.github.io/ClearVision-v6/main.css);
@@ -54,7 +54,7 @@
   --background-blur: 0px; /* app background blur [default: 0px] */
 
   /* HOME BUTTON ICON */
-  --home-icon: url(https://clearvision.github.io/icons/discord.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
+  --home-icon: url(https://icon-library.com/images/wow-icon-png/wow-icon-png-14.jpg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
   --home-position: center; /* home button icon position [default: center] */
   --home-size: 40px; /* home button icon size [default: 40px] */
 
